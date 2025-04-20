@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data engineering and analytics projects <br>👯 I’m looking to collaborate on data engineering, data science and analytics projects that involve machine learning & data pipelining<br>🤝 I’m looking for help with use of cloud environments and big data tools<br>🌱 I’m currently learning, LLM and new cloud processing<br>💬 Ask me about data engineering and analytics
+🔭 I’m currently working on data projects <br>👯 I’m looking to collaborate on data analytics, data science and engineering projects that involve machine learning & data pipelining<br>🤝 I’m looking for help with use of cloud environments and big data tools<br>🌱 I’m currently learning, LLM and new cloud processing<br>💬 Ask me about data engineering and analytics
 
 
 ## 🌐 Socials:
